@@ -8,6 +8,6 @@
   "compatibleCoreVersion": "12",
   "system": ["dnd5e"],
   "dependencies": [],
-  "manifest": "https://raw.githubusercontent.com/sweetyhake/sweetyvtt/main/module.json",
-  "download": "https://raw.githubusercontent.com/sweetyhake/sweetyvtt/main/sweetytech.zip"
+  "manifest": "https://raw.githubusercontent.com/sweetyhake/sweetytech/main/module.json",
+  "download": "https://raw.githubusercontent.com/sweetyhake/sweetytech/main/sweetytech.zip"
 }
