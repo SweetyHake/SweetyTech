@@ -1,0 +1,13 @@
+{
+  "name": "sweetytech",
+  "title": "Damage Highlight",
+  "description": "Highlights damage above tokens based on damage type.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "esmodules": ["sweetytech.js"],
+  "compatibleCoreVersion": "12",
+  "system": ["dnd5e"],
+  "dependencies": [],
+  "manifest": "https://raw.githubusercontent.com/sweetyhake/sweetyvtt/main/module.json",
+  "download": "https://raw.githubusercontent.com/sweetyhake/sweetyvtt/main/sweetytech.zip"
+}
